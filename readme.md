@@ -31,7 +31,7 @@ cd Grocery-List-Manager
 
 4. Compile TypeScript to JavaScript
 
-tcs
+tcs main.ts
 
 5. Run the App
 
